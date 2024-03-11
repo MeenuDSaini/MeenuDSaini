@@ -1,4 +1,5 @@
-- 👋 Hi there!  I’m Meenu Saini, a recent graduate from a Data Analyst course with a strong passion for turning raw data into actionable insights. My journey in the world of data has equipped me with valuable skills in Python, Pandas, Power BI, Tableau, Hypotheses testing, SQL, and Machine Learning models.
+- 👋 Hi there!
+-  I’m Meenu Saini, a recent graduate from a Data Analyst course with a strong passion for turning raw data into actionable insights. My journey in the world of data has equipped me with valuable skills in Python, Pandas, Power BI, Tableau, Hypotheses testing, SQL, and Machine Learning models.
 - 👀 I'm Proficient in extracting meaningful insights from diverse datasets, I am well-versed in employing analytical techniques to uncover patterns and trends.
 - I am skilled in using Python for data manipulation and analysis, Pandas for data wrangling, and have experience creating interactive dashboards using tools like Power BI and Tableau.
 - I have a solid foundation in hypotheses testing, allowing me to make informed decisions based on statistical significance.
